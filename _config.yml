@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://blog.int81.xyz
+url: https://blog.int81.xyz
 permalink: :title/
 permalink_defaults:
 
@@ -125,6 +125,7 @@ markdown:
     - markdown-it-sub
     - markdown-it-sup
     - markdown-it-checkbox
+    - hexo-generator-cname
   anchors:
     # Minimum level for ID creation. (Ex. h2 to h6)
     level: 1
