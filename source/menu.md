@@ -1,2 +1,2 @@
-* [home](/)
-* [hello-world](/hello-world)
+* [home](/blog)
+* [hello-world](/blog/hello-world)
